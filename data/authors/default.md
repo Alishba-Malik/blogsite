@@ -2,10 +2,10 @@
 name: Alishba Malik
 avatar: /static/images/alishba.jpg
 occupation: CYS Student
-email: haris@thecyberthesis.com
-twitter: https://twitter.com/arcusten
-linkedin: https://www.linkedin.com/in/muhammad-haris-815aa326a/
-github: https://github.com/ArcusTen
+email: alishbamalickofficial@gmail.com
+twitter: https://twitter.com/
+linkedin: https://www.linkedin.com/in/alishba-malik
+github: https://github.com/Alishba-Malik
 ---
 
 # 👋🏼 I'm Alishba

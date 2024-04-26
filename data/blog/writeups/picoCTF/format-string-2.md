@@ -8,4 +8,8 @@ summary: ---
 
 ## Solution
 
-.....
+This is demo
+
+```python
+print("hi")
+```

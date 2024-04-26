@@ -5,14 +5,14 @@ const siteMetadata = {
   description: 'An exclusive blogsite for my CTF write-ups and cybersecurity journey.',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://alishbamalik.vercel.app',
+  siteUrl: 'https://alishba-malik.vercel.app',
   siteRepo: 'https://github.com/Alishba-Malik/blogsite',
   siteLogo: '/static/favicons/favicon-32x32.png',
   image: '/static/images/alishba.jpg',
   socialBanner: '/static/images/twitter-card.png',
-  email: 'moharisofficial@gmail.com',
+  email: 'alishbamalickofficial@gmail.com',
   github: 'https://github.com/Alishba-Malik',
-  twitter: 'https://twitter.com/arcusten',
+  twitter: 'https://twitter.com/',
   linkedin: 'https://www.linkedin.com/in/alishba-malik',
   locale: 'en-US',
   analytics: {
