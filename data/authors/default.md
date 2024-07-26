@@ -3,7 +3,6 @@ name: Alishba Malik
 avatar: /static/images/alishba.jpg
 occupation: CYS Student
 email: alishbamalickofficial@gmail.com
-twitter: https://twitter.com/
 linkedin: https://www.linkedin.com/in/alishba-malik
 github: https://github.com/Alishba-Malik
 ---
@@ -14,18 +13,15 @@ As a cybersecurity enthusiast, I find myself drawn to the intricate realms of di
 
 ## Skills
 
-- **Programming Languages**: python, C++, C#, bash
+- **Programming Languages**: python, C++, C, bash
 - **Platforms**: Linux, Windows, Vercel
 - **Other**: Painting, Calligraphy
 
 ## Currently Learning
 
-- **Programming Languages**: Web Exploitation
-- **Tools & Frameworks**: Metasploit, Burpsuit
+- **Programming Languages**:Binary Exploitation, Digital Forensics
+- **Tools & Frameworks**: Volatility, Autopsy, Ghidra
 
-## Experience
-
-- [AUCSS](https://aucss.live) Website Manager at **Air University** (2023 - Present)
 
 ## Education
 
@@ -33,19 +29,12 @@ As a cybersecurity enthusiast, I find myself drawn to the intricate realms of di
 
 ## Achievements
 
-- **4rd Place** in AIRange'24 CTF by AUCSS (2024)
+- **4th Place** in AIRange'24 CTF by AUCSS (2024)
 - **10th Place** in blitzstorm 
 - **8th Place** in Softec
 
-## Projects
-
-- **Reverse access**
-- **Basic ICMP DDoS dummy server -multiclient** 
-- **Visual Scientific calculator on C#**
-- **A basic piano in C++**
 
 ## Additional Experiences
 
-- **Member** at [Griffyns](https://ctftime.org/team/221924) (Country place: [15](https://ctftime.org/stats/PK))
 - **Member** at [AUCSS Red Team Society](https://aucss.live/) (2023 - Present)
 
