@@ -1,15 +1,13 @@
 ---
-
 title: MemLab Series-Lab 0
 date: '2024-07-25'
 tags: ['Digital Forensics', 'ctf', 'Memory dump', 'Volatility','MemLabs']
 draft: false
 summary: Given memory dump, find user activity and flag.A sample challenge.
-
 ---
 
+# Lab 0 - Never Too Late Mister
 
-# **Lab 0 - Never Too Late Mister**
 Welcome to the captivating world of digital forensics, where every byte is a clue and every memory dump holds the key to uncovering hidden truths. As I embark on my journey through the MemLabs series, Lab 0 emerges as the perfect starting point—a blend of simplicity and intrigue that lays the groundwork for more complex challenges ahead. In this foundational lab, we delve into the essentials of memory analysis, wielding fundamental tools and techniques that are crucial for any digital detective. Join me as we decode the mysteries hidden within volatile memory, uncovering the secrets that lie just beneath the surface in our first step into the enthralling domain of digital forensics.
 
 Lab 0 is a sample challenge whose description is also provided, setting the stage for the upcoming ones. Without any delay, let’s dig into it.
