@@ -1,7 +1,7 @@
 ---
 
 title: MemLab Series-Lab 0
-date: '2024-07-26'
+date: '2024-07-25'
 tags: ['Digital Forensics', 'ctf', 'Memory dump', 'Volatility','MemLabs']
 draft: false
 summary: Given memory dump, find user activity and flag.A sample challenge.

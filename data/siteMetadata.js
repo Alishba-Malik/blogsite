@@ -2,7 +2,7 @@ const siteMetadata = {
   title: 'Alishba Malik',
   author: 'Alishba Malik',
   headerTitle: 'Alishba Malik',
-  description: 'An exclusive blogsite for my CTF write-ups and cybersecurity journey.',
+  description: 'A bit of every cyber-chunk of my life in each blog post, dive in!',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://alishba-malik.vercel.app',
@@ -12,7 +12,7 @@ const siteMetadata = {
   socialBanner: '/static/images/twitter-card.png',
   email: 'alishbamalickofficial@gmail.com',
   github: 'https://github.com/Alishba-Malik',
-  twitter: 'https://twitter.com/',
+  //twitter: 'https://twitter.com/',
   linkedin: 'https://www.linkedin.com/in/alishba-malik',
   locale: 'en-US',
   analytics: {
