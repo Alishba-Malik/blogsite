@@ -1,7 +1,7 @@
 ---
 
 title: MemLab Series-Lab 4
-date: '2024-07-31'
+date: '2024-07-30'
 tags: ['Digital Forensics', 'ctf', 'Memory dump', 'Volatility','MemLabs']
 draft: false
 summary: Recover deleted file from memory dump using volatility.
