@@ -9,8 +9,6 @@ github: https://github.com/Alishba-Malik
 
 # 👋🏼 I'm Alishba
 
-<!-- As a cybersecurity enthusiast, I find myself drawn to the intricate realms of digital forensics and malware analysis. Delving into the depths of cryptography challenges in Capture The Flag competitions alongside my team ignites my passion further. My aspiration? To traverse the diverse landscapes of the cybersecurity domain, all while nurturing the dream of becoming a skilled pentester. -->
-
 Welcome to my quirky corner of the internet, where cybersecurity isn’t just a profession, but an exhilarating adventure! Here, I document my thrilling journey through the world of CTFs, binary exploitation, and memory forensics. Expect a playful mix of in-depth technical insights, whimsical storytelling, and a sprinkle of hacker humor.
 Imagine playing hide and seek, but the hiders are sneaky malware and the seeker is... me! Armed with nothing but curiosity, a keyboard, and way too much coffee, I chase down digital villains and crack the tough puzzles. 
 Come along on my adventure as I crack codes, solve mysteries, and have a blast in the world of cybersecurity!
