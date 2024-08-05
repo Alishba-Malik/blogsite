@@ -38,7 +38,9 @@ volatility -f MemoryDump_Lab2.raw --profile=Win7SP1x64 kdbgscan
 ```
 
 ![Screenshot](/static/writeups/Digital_forensics/Memlabs/lab2/img2.png)
+
 ![Screenshot](/static/writeups/Digital_forensics/Memlabs/lab2/img3.png)
+
 ![Screenshot](/static/writeups/Digital_forensics/Memlabs/lab2/img4.png)
 
 Now let’s get into the real stuff, i mean hacking. Let’s list all the active processes using the command:

@@ -32,6 +32,7 @@ Now, let’s play with the dump file. I’m going to use Volatility 2.6 on my Li
 volatility -f Challenge.raw imageinfo
 ```
 ![Screenshot](/static/writeups/Digital_forensics/Memlabs/lab0/img1.png)
+
 The result shows three profiles are running:
 
 - Win7SP1x86_23418

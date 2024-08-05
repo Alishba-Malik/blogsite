@@ -40,6 +40,7 @@ Next, to ensure we have the right profile, I  ran:
 volatility -f MemoryDump_Lab1.raw kdbgscan 
 ```
 ![Screenshot](/static/writeups/Digital_forensics/Memlabs/lab1/2.0.png)
+
 ![Screenshot](/static/writeups/Digital_forensics/Memlabs/lab1/2.1.png)
 
 With the profile confirmed as Win7SP1x64, let’s list the active processes:
@@ -116,8 +117,11 @@ gimp 2424.data
 With offset 6774541, width 1230, and height 10000, I extracted the second flag.
 
 ![Screenshot](/static/writeups/Digital_forensics/Memlabs/lab1/8.0.png)
+
 ![Screenshot](/static/writeups/Digital_forensics/Memlabs/lab1/8.1.png)
+
 ![Screenshot](/static/writeups/Digital_forensics/Memlabs/lab1/8.2.png)
+
 ### Flag 2:
 
 ```bash
@@ -171,12 +175,13 @@ volatility -f MemoryDump_Lab1.raw --profile=Win7SP1x64 hashdump
 password: F4FF64C8BAAC57D22F22EDC681055BA6
 
 ![Screenshot](/static/writeups/Digital_forensics/Memlabs/lab1/14.png)
+
 ![Screenshot](/static/writeups/Digital_forensics/Memlabs/lab1/15.png)
 
 ```bash
 eog flag3.png
 ```
-![Screenshot](/static/writeups/Digital_forensics/Memlabs/lab1/1.png)
+![Screenshot](/static/writeups/Digital_forensics/Memlabs/lab1/16.png)
 
 ### flag 3:
 
