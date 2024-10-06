@@ -3,7 +3,7 @@ name: Alishba Malik
 avatar: /static/images/alishba.jpg
 occupation: CYS Student
 email: alishbamalickofficial@gmail.com
-linkedin: www.linkedin.com/in/alishba-malik-
+linkedin: https://www.linkedin.com/in/alishba-malik-/
 github: https://github.com/Alishba-Malik
 ---
 
